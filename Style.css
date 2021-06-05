@@ -125,3 +125,53 @@ h1{
     margin-top: 65%;
     margin-left: 20%;
 }
+.fields{
+    margin-top: 75%;
+    position: absolute;
+    width: 200px;
+    margin-left: 20%;
+    height: 60px;
+    gap: 23px;
+    display: flex;
+}
+.image{
+    position: absolute;
+    margin-top: 85%;
+    margin-left: 20%;
+}
+.aboutshadow{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    background: #EAD3CB;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin-top: 95%;
+    margin-left: 70%;
+}
+.abouts{
+    position: absolute;
+    width: 550px;
+    height: 500px;
+    background: #845460;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    margin-top: 94%;
+    margin-left: 69%;
+}
+.me{
+    position: absolute;
+    width: 488px;
+    height: 10px;
+    font-family: Rochester;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 96px;
+    line-height: 0px;
+    margin-left: 10%;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
+}
+
+}
