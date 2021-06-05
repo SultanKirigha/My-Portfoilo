@@ -141,8 +141,8 @@ h1{
 }
 .aboutshadow{
     position: absolute;
-    width: 550px;
-    height: 500px;
+    width: 600px;
+    height: 450px;
     background: #EAD3CB;
     border: 1px solid #000000;
     box-sizing: border-box;
@@ -151,8 +151,8 @@ h1{
 }
 .abouts{
     position: absolute;
-    width: 550px;
-    height: 500px;
+    width: 600px;
+    height: 450px;
     background: #845460;
     border: 1px solid #000000;
     box-sizing: border-box;
@@ -173,5 +173,26 @@ h1{
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
 }
-
+.designer{
+    position: absolute;
+    width: 550px;
+    height: 444px;
+    font-family: Rosario;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #EAD3CB;
+    margin-left: 2%;
+}
+.myprojects{
+    position: absolute;
+    width: 100vw;
+    height: 704px;
+    background: #845460;
+    margin-left: -1%;
+    margin-top: 1665px;
 }
