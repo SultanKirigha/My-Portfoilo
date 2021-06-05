@@ -57,11 +57,11 @@ h1{
     position: absolute;
     background-repeat: no-repeat;
     width: 409.83px;
-    height: 647.39px;
+    height: 18%;
     background: url(images/WhatsApp_Image_2021-06-03_at_15.47.59-removebg-preview.png);
-    transform: matrix(1, 0, 0, 1, 0, 0);
-    margin-left: 40%;
-    margin-top: -55px;
+    transform: matrix(1.2, 0, 0, 1.2, 0, 0);
+    margin-left: 42%;
+    margin-top: -115px;
 }
 .capital{
     position: absolute;
@@ -98,5 +98,30 @@ h1{
     -webkit-text-fill-color: transparent;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
-
+}
+.list{
+    position: absolute;
+    width: -12.93px;
+    height: 41px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 25px;
+    color: #845460;
+    display: flex;
+    gap: 100px;
+    margin-left: 60%;
+    margin-top: 46%;
+}
+.experience{
+    position: absolute;
+    width: 320px;
+    height: 144px;
+    font-family: Rosario;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    margin-top: 65%;
+    margin-left: 20%;
 }
