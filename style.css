@@ -50,7 +50,7 @@ h1{
     margin-top: 45%;
     margin-left: 34vw;
     width: 1200px;
-    height: 177px;
+    height: 500px;
     background: #BDC7C9;
 }
 .personal-image{
@@ -195,4 +195,19 @@ h1{
     background: #845460;
     margin-left: -1%;
     margin-top: 1665px;
+}
+.header{
+    position: absolute;
+    width: 665px;
+    height: 155px;
+    font-family: Rochester;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 120px;
+    line-height: 155px;
+    margin-top: 0%;
+    margin-left: 30%;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
 }
