@@ -46,6 +46,7 @@ This Project is created using:
 ## How it works
 Scroll through the site to find out more about me.
 ```
+```
 ## Contacts
 Created the contact form to help all those who visit my site navigate easyly.
 contact me on @sultankirigha@gmail.com.
