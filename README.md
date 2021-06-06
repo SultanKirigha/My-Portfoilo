@@ -6,7 +6,7 @@ It contains a general description of my work, background and contact information
 ## Table of contents
 * [Project Name](#My-portfoilio)
 * [Author]()
-* [Description_of_Project]
+* [Description_of_Project]()
 * [Project setup instructions](#technologies)
 * [How it Works](#instructions)
 * [Contact information](#contacts)
